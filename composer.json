@@ -81,6 +81,7 @@
             ]
         }
     },
+    "abandoned": "rinvex/laravel-subscriptions",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
